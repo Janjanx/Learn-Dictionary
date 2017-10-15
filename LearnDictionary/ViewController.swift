@@ -11,20 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    @IBOutlet weak var headerLabel: UILabel!
-    
-    
-    
-    @IBOutlet weak var usernameTextField: UILabel!
-    
-    
-    
-    @IBOutlet weak var passwordTextField: UITextField!
-    
-    
-    
-    @IBAction func loginTextField(_ sender: Any) {
-    }
+
     
 
     override func viewDidLoad() {
